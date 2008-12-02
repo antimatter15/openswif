@@ -1,0 +1,14 @@
+#summary Specific details about the project.
+
+= Introduction =
+
+This document is meant to prepare newcomers who wish to contribute with the confirmed specifics of the project. Any details that have not yet been confirmed can currently be found at either http://liveswifers.muux.org or http://www.liveswifers.org under the OpenSwif section.
+
+
+= Details =
+
+== Language ==
+The Language for the project is currently decided as: *A C++/Python Mixture*
+
+== Compilers ==
+Nothing has been decided yet, but a _*likely*_ choice for C++ compiler is: *The GNU C++ Compiler*. A choice for Python compiler may be the one you get with the Python download, but this is all unconfirmed.
