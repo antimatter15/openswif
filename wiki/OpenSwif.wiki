@@ -1,0 +1,9 @@
+#summary Definition for OpenSwif
+
+= Introduction =
+
+Due to the way this was spelled in another wiki document, Google decided it should be a page link. This page is provided solely here because OpenSwif should have the O and S capitalized, at least the way I (pidayman) spell it.
+
+
+= Definition =
+The project for which this Google Code project is made for.
