@@ -1,0 +1,14 @@
+#summary Vector Graphics lies at the heart of Animation such as Flash(tm). Here we will examine the options for creating/acquiring this fundamental component.
+
+= Introduction =
+
+Vector Editor
+- SK1
+- Skencil
+- Custom-Built
+- C/++ Vector Editor?
+
+
+= Details =
+
+*not yet decided*
